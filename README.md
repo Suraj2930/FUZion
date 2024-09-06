@@ -1,12 +1,19 @@
 # FUZion
+
+
+<div align = "justify">
+
 A Bluetooth Controlled Rover (your upgradeable exploration companion)!
 
 ## Hardware
 
 - A microcontroller board (e.g., Arduino Uno, Esp32)
 - USB cable for programming the board
-- Breadboard
-- Jumper wires
+- connecting wires (as required)
+- BO motors x2
+- wheels x4
+- sensors (as required)
+- Base for assembly everything (anything that is strong will work)
 - Basic electronic components (LEDs, resistors, sensors)
 
 ## Software
